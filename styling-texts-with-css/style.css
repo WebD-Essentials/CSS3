@@ -1,0 +1,81 @@
+#para1 {
+  color: red;
+}
+
+#para2 {
+  color: rgb(23, 45, 67);
+}
+
+#para3 {
+  color: #ffc40b;
+}
+
+#para4 {
+  color: hsl(120, 100%, 50%);
+}
+
+#para1 {
+  font-size: 24px;
+}
+
+#para2 {
+  font-size: 1.4em;
+}
+
+#para3 {
+  font-size: 1.3rem;
+}
+
+#para4 {
+  font-size: 0.5in;
+}
+
+#para1 {
+  font-family: "Lucida Handwriting", CuRSive;
+}
+
+p {
+  line-height: 20px;
+  /* line-height: 20pt;
+  line-height: 0.2in;
+  line-height: 0.2em;
+  line-height: 0.2cm; */
+}
+
+p {
+  text-decoration: underline;
+  /* text-decoration: overline;
+  text-decoration: none;
+  text-decoration: line-through; */
+}
+
+p {
+  letter-spacing: 0.5px;
+  /* letter-spacing: 0.5cm;
+  letter-spacing: 0.5in;
+  letter-spacing: 0.5em; */
+}
+
+p {
+  text-transform: capitalize;
+  /* text-transform: lowercase;
+  text-transform: uppercase; */
+}
+
+p {
+  text-align: center;
+  /* text-align: left;
+  text-align: right;
+  text-align: justify; */
+}
+
+p {
+  text-shadow: 2px 2px red;
+  /* text-shadow: 2px 2px 2px red; */
+}
+
+p {
+  writing-mode: horizontal-tb;
+  /* writing-mode: vertical-lr; */
+  /* writing-mode: vertical-rl; */
+}
